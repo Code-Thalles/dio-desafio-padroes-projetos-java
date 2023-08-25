@@ -1,0 +1,1 @@
+Exemplos dos padrões de projeto Facade, Strategy e Singleton em Java.

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;lab-padroes-projeto-spring&apos;&#x0D;&#x0A;- Original project: &apos;lab-padroes-projeto-spring&apos;&#x0D;&#x0A;- Original element: &apos;lab-padroes-projeto-spring/src/main/java/one.digitalinnovation.gof.one.digitalinnovation.gof&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;one.digitalinnovation.gof.one.digitalinnovation.gof" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;one.digitalinnovation.gof.one.digitalinnovation" element3="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;one.digitalinnovation.gof.one" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1692960292109" subPackages="false" version="1.0"/>
+</session>

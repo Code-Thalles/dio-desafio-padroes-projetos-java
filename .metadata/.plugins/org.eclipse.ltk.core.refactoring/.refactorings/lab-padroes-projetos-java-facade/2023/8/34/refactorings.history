@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;subsistema.crm&apos; to &apos;subsistema1.crm&apos;&#x0D;&#x0A;- Original project: &apos;lab-padroes-projetos-java-facade&apos;&#x0D;&#x0A;- Original element: &apos;lab-padroes-projetos-java-facade/src/subsistema.crm&apos;&#x0D;&#x0A;- Renamed element: &apos;lab-padroes-projetos-java-facade/src/subsistema1.crm&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;subsistema.crm&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;subsistema.crm" name="subsistema1.crm" qualified="false" references="true" stamp="1692956284369" textual="false" version="1.0"/>
+</session>
